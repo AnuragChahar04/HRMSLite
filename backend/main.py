@@ -18,6 +18,7 @@ origins = [
     "http://localhost",
     "http://localhost:5173", # Vite default
     "http://localhost:3000", # React default alternative
+    "https://hrms-lite-amber-three.vercel.app"
 ]
 
 app.add_middleware(
